@@ -1,0 +1,4 @@
+mediapipe~=0.8.11
+Pillow~=9.2.0
+ttkwidgets~=0.12.1
+opencv-contrib-python~=4.6.0.66
